@@ -1,0 +1,8 @@
+{
+    "PRIVATE_KEY_PATH": "/home/USERNAME/Ollama/private.pem",
+    "PUBLIC_KEY_PATH": "/home/USERNAME/Ollama/public.pem",
+    "RECIPIENT_PUBLIC_KEY_PATH": "/home/USERNAME/Ollama/docker_public.pem",
+    "CONTAINER_NAME": "ollama",
+    "DOCKER_PYTHON_PATH": "/home/ubuntu/ollama/.venv/bin/python3",
+    "DOCKER_SCRIPT_PROCESSOR": "/home/ubuntu/ollama/process_prompt.py"
+}
