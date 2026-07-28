@@ -1,0 +1,8 @@
+{
+    "API_URL": "http://localhost:11434/api/chat",
+    "MODEL": "gemma3:4b",
+    "STREAM": false,
+    "PRIVATE_KEY_PATH": "/home/ubuntu/ollama/private.pem",
+    "PUBLIC_KEY_PATH": "/home/ubuntu/ollama/public.pem",
+    "SENDER_PUBLIC_KEY_PATH": "/home/ubuntu/ollama/host_public.pem"
+}
